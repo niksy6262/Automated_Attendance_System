@@ -1,0 +1,19 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# Logs and Data
+*.log
+*.pkl
+
+# System files
+.DS_Store
+
+# IDE folders
+.vscode/
+.idea/
